@@ -302,6 +302,7 @@ public static class LocationNames
     public const string Silkeater__Choral_Chambers_West = "Silkeater-Choral_Chambers_West";  // West of Grand Bellway
     public const string Silkeater__Deep_Docks = "Silkeater-Deep_Docks";  // Southeast of sauna bench
     public const string Silkeater__Greymoor = "Silkeater-Greymoor";  // Top of tower west of Halfway Home
+    public const string Silkeater__The_Cradle = "Silkeater-The_Cradle";  // Tube Hub
     public const string Silkeater__Whiteward = "Silkeater-Whiteward";  // In the centre
     public const string Silkeater__Whispering_Vaults = "Silkeater-Whispering_Vaults";  // North of Vaultkeeper Cardinius's lair
 
